@@ -1,6 +1,5 @@
 /*
 // ctools.h
-// Mengyang Gu, Dec 2018
 */
 
 #ifndef _fastgasp_ctools_H
